@@ -7,6 +7,7 @@ I am an independent and self-motivated JavaScript/ Java student. With some pract
  - [Certificate - Java Fundamentals](https://softuni.bg/certificates/details/195145/c10f50f2)
  - [Certificate - Java Advanced](https://softuni.bg/certificates/details/203382/3e2e30b7)
  - [Certificate - Java OOP](https://softuni.bg/certificates/details/211065/3ca50784)
+ - [Certificate -  PostgreSQL](https://softuni.bg/certificates/details/216935/1e04bc5e)
 
 
 ![image](https://github.com/NinaNikolova/NinaNikolova/assets/40785979/0c7a42b9-94fd-42b9-969f-f4e30c2e8111)
