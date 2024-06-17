@@ -8,4 +8,27 @@ I am an independent and self-motivated JavaScript/ Java student. With some pract
  - [Certificate - Java Advanced](https://softuni.bg/certificates/details/203382/3e2e30b7)
  - [Certificate - Java OOP](https://softuni.bg/certificates/details/211065/3ca50784)
 
+My knowledge: 
+![image](https://github.com/NinaNikolova/NinaNikolova/assets/40785979/0c7a42b9-94fd-42b9-969f-f4e30c2e8111)
+![image](https://github.com/NinaNikolova/NinaNikolova/assets/40785979/e792b3c2-e734-4b84-9081-8126b9ca356e)
+![image](https://github.com/NinaNikolova/NinaNikolova/assets/40785979/6819a7b8-6544-4fc4-9f02-9e4cfc09c848)
+![image](https://github.com/NinaNikolova/NinaNikolova/assets/40785979/b9a9302b-fbf4-4c12-9855-0b5dcc669898)
+![image](https://github.com/NinaNikolova/NinaNikolova/assets/40785979/0c0e4a02-bbc2-4e59-9891-d36a9c98edcc)
+![image](https://github.com/NinaNikolova/NinaNikolova/assets/40785979/61a451c2-fd05-4178-b511-1e50d412f017)
+![image](https://github.com/NinaNikolova/NinaNikolova/assets/40785979/bb6ec9c9-28bb-4329-a2a4-4d35348b9381)
+![image](https://github.com/NinaNikolova/NinaNikolova/assets/40785979/8e2f4566-ec13-4992-af1e-476574683b2f)
+![image](https://github.com/NinaNikolova/NinaNikolova/assets/40785979/31a14935-fbe9-448b-9f14-bd4c99123cf8)
+![image](https://github.com/NinaNikolova/NinaNikolova/assets/40785979/9e5e1295-a22a-40f9-83eb-6ada31a943bd)
+
+
+
+I use IDEs:
+![image](https://github.com/NinaNikolova/NinaNikolova/assets/40785979/8c53f516-45db-4b16-8c67-7cd07851e04d)
+![image](https://github.com/NinaNikolova/NinaNikolova/assets/40785979/45c64c32-5951-4b7d-8f4b-482b4fcada8b)
+
+
+
+
+
+
 
