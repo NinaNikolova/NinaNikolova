@@ -8,7 +8,7 @@ I am an independent and self-motivated JavaScript/ Java student. With some pract
  - [Certificate - Java Advanced](https://softuni.bg/certificates/details/203382/3e2e30b7)
  - [Certificate - Java OOP](https://softuni.bg/certificates/details/211065/3ca50784)
 
-My knowledge: 
+
 ![image](https://github.com/NinaNikolova/NinaNikolova/assets/40785979/0c7a42b9-94fd-42b9-969f-f4e30c2e8111)
 ![image](https://github.com/NinaNikolova/NinaNikolova/assets/40785979/e792b3c2-e734-4b84-9081-8126b9ca356e)
 ![image](https://github.com/NinaNikolova/NinaNikolova/assets/40785979/6819a7b8-6544-4fc4-9f02-9e4cfc09c848)
@@ -22,7 +22,7 @@ My knowledge:
 
 
 
-I use IDEs:
+
 ![image](https://github.com/NinaNikolova/NinaNikolova/assets/40785979/8c53f516-45db-4b16-8c67-7cd07851e04d)
 ![image](https://github.com/NinaNikolova/NinaNikolova/assets/40785979/45c64c32-5951-4b7d-8f4b-482b4fcada8b)
 
