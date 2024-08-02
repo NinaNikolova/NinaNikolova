@@ -13,6 +13,7 @@ I am an independent and self-motivated JavaScript/ Java student. With some pract
   
   ✅  [Participation as a frontend developer  in the project- Garant Burgas/React, TypeScript, Tailwind/🔗](https://borsa.garantburgas.com)
 
+![Feature Demo Animation](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 <img src="https://github.com/NinaNikolova/NinaNikolova/assets/40785979/0c7a42b9-94fd-42b9-969f-f4e30c2e8111" width="32" />
 <img src="https://github.com/NinaNikolova/NinaNikolova/assets/40785979/e792b3c2-e734-4b84-9081-8126b9ca356e" width="32" />
