@@ -30,4 +30,4 @@ I am an independent and self-motivated JavaScript/ Java student. With some pract
 
 
 
-
+![Feature Animation](./assets/feature-animation.gif)
