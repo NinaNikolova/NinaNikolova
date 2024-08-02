@@ -11,7 +11,7 @@ I am an independent and self-motivated JavaScript/ Java student. With some pract
 
   💡 I am studying at the moment - Containers and Cloud
   
-  ✅ 🔗 [participation as a frontend developer  in the project- Garant Burgas/React, TypeScript, Tailwind/](https://borsa.garantburgas.com)
+  ✅  [Participation as a frontend developer  in the project- Garant Burgas/React, TypeScript, Tailwind/🔗](https://borsa.garantburgas.com)
 
 
 <img src="https://github.com/NinaNikolova/NinaNikolova/assets/40785979/0c7a42b9-94fd-42b9-969f-f4e30c2e8111" width="32" />
