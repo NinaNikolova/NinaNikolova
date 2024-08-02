@@ -4,12 +4,12 @@ I am an independent and self-motivated JavaScript/ Java student. With some pract
 
 👩‍🎓 I graduated JavaScript in SoftUni : [Certificate - JS Web Developer](https://softuni.bg/certificates/details/185271/46d18211)
 👩‍💻 I’m currently learning: Java in SoftUni:
-✅  [Certificate - Java Fundamentals](https://softuni.bg/certificates/details/195145/c10f50f2)
-✅  [Certificate - Java Advanced](https://softuni.bg/certificates/details/203382/3e2e30b7)
-✅  [Certificate - Java OOP](https://softuni.bg/certificates/details/211065/3ca50784)
-✅  [Certificate -  PostgreSQL](https://softuni.bg/certificates/details/216935/1e04bc5e)
-ℹ️ **Info:** I am studying at the moment - Containers and Cloud
-🚨 **Important:** [participation as a frontend developer  in the project- Garant Burgas/React, TypeScript/](https://borsa.garantburgas.com)
+-  [Certificate - Java Fundamentals](https://softuni.bg/certificates/details/195145/c10f50f2)
+-  [Certificate - Java Advanced](https://softuni.bg/certificates/details/203382/3e2e30b7)
+-  [Certificate - Java OOP](https://softuni.bg/certificates/details/211065/3ca50784)
+-  [Certificate -  PostgreSQL](https://softuni.bg/certificates/details/216935/1e04bc5e)
+  💡 I am studying at the moment - Containers and Cloud
+  ✅ [participation as a frontend developer  in the project- Garant Burgas/React, TypeScript/](https://borsa.garantburgas.com)
 
 
 <img src="https://github.com/NinaNikolova/NinaNikolova/assets/40785979/0c7a42b9-94fd-42b9-969f-f4e30c2e8111" width="32" />
