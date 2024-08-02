@@ -9,7 +9,7 @@ I am an independent and self-motivated JavaScript/ Java student. With some pract
 -  [Certificate - Java OOP](https://softuni.bg/certificates/details/211065/3ca50784)
 -  [Certificate -  PostgreSQL](https://softuni.bg/certificates/details/216935/1e04bc5e)
 
-  💡 I am studying at the moment - Containers and Cloud
+  💡 I am studying at the moment - Containers and Cloud ![Loading Animation](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
   
   ✅  [Participation as a frontend developer  in the project- Garant Burgas/React, TypeScript, Tailwind/🔗](https://borsa.garantburgas.com)
 
