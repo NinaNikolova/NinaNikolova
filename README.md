@@ -8,7 +8,7 @@ I am an independent and self-motivated JavaScript/ Java student. With some pract
  - [Certificate - Java Advanced](https://softuni.bg/certificates/details/203382/3e2e30b7)
  - [Certificate - Java OOP](https://softuni.bg/certificates/details/211065/3ca50784)
  - [Certificate -  PostgreSQL](https://softuni.bg/certificates/details/216935/1e04bc5e)
- - [participation as a frontend developer in the project/React, TypeScript/](https://borsa.garantburgas.com)
+ - [participation as a frontend developer in the project- Garant Burgas/React, TypeScript/](https://borsa.garantburgas.com)
 
 ![image](https://github.com/NinaNikolova/NinaNikolova/assets/40785979/0c7a42b9-94fd-42b9-969f-f4e30c2e8111)
 ![image](https://github.com/NinaNikolova/NinaNikolova/assets/40785979/e792b3c2-e734-4b84-9081-8126b9ca356e)
