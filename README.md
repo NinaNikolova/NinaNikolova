@@ -2,7 +2,10 @@
 
 I am an independent and self-motivated JavaScript/ Java student. With some practical experience and desire to develop apps with Angular, React and Express.Js.
 
-👩‍🎓 I graduated JavaScript in SoftUni : [Certificate - JS Web Developer](https://softuni.bg/certificates/details/185271/46d18211) ![Success Animation](https://media.giphy.com/media/111ebonMs90YLu/giphy.gif)
+👩‍🎓 I graduated JavaScript in SoftUni : [Certificate - JS Web Developer](https://softuni.bg/certificates/details/185271/46d18211) 
+
+<img src="https://media.giphy.com/media/111ebonMs90YLu/giphy.gif" width="100" height="100" alt="Success Animation">
+
 👩‍💻 I’m currently learning: Java in SoftUni:
 -  [Certificate - Java Fundamentals](https://softuni.bg/certificates/details/195145/c10f50f2)
 -  [Certificate - Java Advanced](https://softuni.bg/certificates/details/203382/3e2e30b7)
@@ -12,8 +15,6 @@ I am an independent and self-motivated JavaScript/ Java student. With some pract
   💡 I am studying at the moment - Containers and Cloud
   
   ✅  [Participation as a frontend developer  in the project- Garant Burgas/React, TypeScript, Tailwind/🔗](https://borsa.garantburgas.com)
-
-![Feature Demo Animation](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 <img src="https://github.com/NinaNikolova/NinaNikolova/assets/40785979/0c7a42b9-94fd-42b9-969f-f4e30c2e8111" width="32" />
 <img src="https://github.com/NinaNikolova/NinaNikolova/assets/40785979/e792b3c2-e734-4b84-9081-8126b9ca356e" width="32" />
@@ -29,5 +30,4 @@ I am an independent and self-motivated JavaScript/ Java student. With some pract
 <img src="https://github.com/NinaNikolova/NinaNikolova/assets/40785979/45c64c32-5951-4b7d-8f4b-482b4fcada8b" width="32" />
 
 
-
-![Feature Animation](./assets/feature-animation.gif)
+![Feature Demo Animation](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
