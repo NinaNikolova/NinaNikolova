@@ -11,7 +11,7 @@ I am an independent and self-motivated JavaScript/ Java student. With some pract
 
   💡 I am studying at the moment - Containers and Cloud
   
-  ✅ [participation as a frontend developer  in the project- Garant Burgas/React, TypeScript, Tailwind/](https://borsa.garantburgas.com)
+  ✅ 🔗 [participation as a frontend developer  in the project- Garant Burgas/React, TypeScript, Tailwind/](https://borsa.garantburgas.com)
 
 
 <img src="https://github.com/NinaNikolova/NinaNikolova/assets/40785979/0c7a42b9-94fd-42b9-969f-f4e30c2e8111" width="32" />
@@ -25,7 +25,7 @@ I am an independent and self-motivated JavaScript/ Java student. With some pract
 <img src="https://github.com/NinaNikolova/NinaNikolova/assets/40785979/31a14935-fbe9-448b-9f14-bd4c99123cf8" width="32" />
 <img src="https://github.com/NinaNikolova/NinaNikolova/assets/40785979/9e5e1295-a22a-40f9-83eb-6ada31a943bd" width="32" />
 <img src="https://github.com/NinaNikolova/NinaNikolova/assets/40785979/8c53f516-45db-4b16-8c67-7cd07851e04d" width="32" />
-<img src="https://github.com/NinaNikolova/NinaNikolova/assets/40785979/45c64c32-5951-4b7d-8f4b-482b4fcada8b" width="32" /> 🔗
+<img src="https://github.com/NinaNikolova/NinaNikolova/assets/40785979/45c64c32-5951-4b7d-8f4b-482b4fcada8b" width="32" />
 
 
 
