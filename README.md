@@ -12,7 +12,7 @@ I am an independent and self-motivated JavaScript/ Java student. With some pract
 
   💡 I am studying at the moment - Containers and Cloud
 
-  ✅  [Participation as a frontend developer  in the project- Fakturiko/Angular, TypeScript/ Certificate here🔗]([https://borsa.garantburgas.com](https://drive.google.com/file/d/1HAVNopZsz644p_lY8Q1Oogcr1DbC4RLR/view))
+  ✅  [Participation as a frontend developer  in the project- Fakturiko/Angular, TypeScript/ Certificate here🔗](https://drive.google.com/file/d/1HAVNopZsz644p_lY8Q1Oogcr1DbC4RLR/view)
   
   ✅  [Participation as a frontend developer  in the project- Garant Burgas/React, TypeScript, Tailwind/🔗](https://borsa.garantburgas.com)
 
