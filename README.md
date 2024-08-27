@@ -4,6 +4,8 @@ I am an independent and self-motivated JavaScript/ Java student. With some pract
 
 💼 My Portfolio - Check out [My personal Portfolio](https://personal-portfolio-hazel-six.vercel.app/)
 
+💼 My Resume - Check out [My Resume](https://resume-7a12.onrender.com/)
+
 🚀  I graduated JavaScript in SoftUni : [Certificate - JS Web Developer](https://softuni.bg/certificates/details/185271/46d18211) <img src="https://media.giphy.com/media/111ebonMs90YLu/giphy.gif" alt="Success Animation">
 
 👩‍💻 I’m currently learning: Java in SoftUni:
