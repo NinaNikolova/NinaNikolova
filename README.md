@@ -15,7 +15,6 @@ I am an independent and self-motivated JavaScript/ Java student. With some pract
 -  [Certificate -  PostgreSQL](https://softuni.bg/certificates/details/216935/1e04bc5e)
 -  [Certificate -  Containers and Cloud](https://softuni.bg/certificates/details/225479/ce73942a)
 
-  💡 I am studying at the moment - Containers and Cloud
 
   ✅  [Participation as a frontend developer  in the project- Fakturiko/Angular, TypeScript/ Certificate here🔗](https://drive.google.com/file/d/1HAVNopZsz644p_lY8Q1Oogcr1DbC4RLR/view)
   
