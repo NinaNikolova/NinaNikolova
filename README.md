@@ -13,6 +13,7 @@ I am an independent and self-motivated JavaScript/ Java student. With some pract
 -  [Certificate - Java Advanced](https://softuni.bg/certificates/details/203382/3e2e30b7)
 -  [Certificate - Java OOP](https://softuni.bg/certificates/details/211065/3ca50784)
 -  [Certificate -  PostgreSQL](https://softuni.bg/certificates/details/216935/1e04bc5e)
+-  [Certificate -  Containers and Cloud](https://softuni.bg/certificates/details/225479/ce73942a)
 
   💡 I am studying at the moment - Containers and Cloud
 
