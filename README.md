@@ -10,7 +10,7 @@ I am an independent and self-motivated JavaScript/ Java student. With some pract
 -  [Certificate - Java OOP](https://softuni.bg/certificates/details/211065/3ca50784)
 -  [Certificate -  PostgreSQL](https://softuni.bg/certificates/details/216935/1e04bc5e)
 -  [Certificate -  Containers and Cloud](https://softuni.bg/certificates/details/225479/ce73942a)
-
+-  [Certificate -  MySQL](https://softuni.bg/certificates/details/226214/e4019d94)
 
   ✅  [Participation as a frontend developer  in the project- Fakturiko/Angular, TypeScript/ Certificate here🔗](https://drive.google.com/file/d/1HAVNopZsz644p_lY8Q1Oogcr1DbC4RLR/view)
   
