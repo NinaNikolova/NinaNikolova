@@ -1,6 +1,6 @@
 # Hi 👋 I'm Nina 
 
-I am an independent and self-motivated JavaScript/ Java student. With some practical experience and desire to develop apps with Angular and React.
+I am an JavaScript/ Java developer. With practical experience and desire to develop apps with Angular and React.
 
 🚀  I graduated JavaScript at SoftUni : [Certificate - JS Web Developer](https://softuni.bg/certificates/details/185271/46d18211) <img src="https://media.giphy.com/media/111ebonMs90YLu/giphy.gif" alt="Success Animation">
 
