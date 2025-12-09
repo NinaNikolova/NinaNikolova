@@ -4,7 +4,7 @@ I am an JavaScript/ Java developer. With practical experience and desire to deve
 
 🚀  I graduated JavaScript at SoftUni : [Certificate - JS Web Developer](https://softuni.bg/certificates/details/185271/46d18211) <img src="https://media.giphy.com/media/111ebonMs90YLu/giphy.gif" alt="Success Animation">
 
-👩‍💻 I’m currently learning: Java at SoftUni and Software Technologies - Master degree at Sofia University "St. Kliment Ohridski":
+👩‍💻 I’m currently studying Software Technologies in the Master’s program at Sofia University “St. Kliment Ohridski.":
 -  [Certificate - Java Fundamentals](https://softuni.bg/certificates/details/195145/c10f50f2)
 -  [Certificate - Java Advanced](https://softuni.bg/certificates/details/203382/3e2e30b7)
 -  [Certificate - Java OOP](https://softuni.bg/certificates/details/211065/3ca50784)
